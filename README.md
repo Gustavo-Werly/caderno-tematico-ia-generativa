@@ -20,17 +20,17 @@
 
 * [ 📌 Sobre este Projeto ](#-sobre-este-projeto)
 * [ 🎯 Objetivos ](#-objetivos)
-* [ 🧠 O que é Inteligência Artificial Generativa? ](#-o-que-e-inteligencia-artificial-generativa)
+* [ 🧠 Inteligência Artificial Generativa? ](#-inteligência-artificial-generativa)
 * [ 📚 Curadoria de Fontes ](#-curadoria-de-fontes)
-* [ 🔎 Critérios de Seleção das Fontes ](#-criterio-de-selecao-de-fonte)
+* [ 🔎 Critérios de Seleção das Fontes ](#-critérios-de-seleção-das-fontes)
 * [ 🧪 Engenharia de Prompts ](#-engenharia-de-prompts)
-* [ 🩹 Cicatrizes e Troubleshooting ](#-cicatrizes)
-* [ 🕰️ Experimento de Validação ](#-experimento)
-* [ 📖 Miniguia de Estudo ](#-miniguia)
-* [ 📚 Glossário ](#-glossario)
-* [ ♻️ Biblioteca de Prompts Reutilizáveis ](#-prompts)
-* [ 💡 Principais Aprendizados ](#-aprendizados)
-* [ 🏁 Considerações Finais ](#-consideracoes)
+* [ 🩹 Cicatrizes e Troubleshooting ](#-cicatrizes-e-troubleshooting)
+* [ 🕰️ Experimento de Validação ](#-experimento-de-validação)
+* [ 📖 Miniguia de Estudo ](#-miniguia-de-estudo)
+* [ 📚 Glossário ](#-glossário)
+* [ ♻️ Biblioteca de Prompts Reutilizáveis ](#-biblioteca-de-prompts-reutilizáveis)
+* [ 💡 Principais Aprendizados ](#-principais-aprendizados)
+* [ 🏁 Considerações Finais ](#-considerações-finais)
 
 ## 📌 Contexto do Projeto
 
@@ -116,7 +116,7 @@ Apresentar uma visão abrangente sobre IA Generativa, incluindo conceitos, funci
 Construção da visão geral sobre Inteligência Artificial Generativa e suas aplicações.
 
 🔗 **Fonte**:
-[ IBM — O que é a IA generativa? ](#-https://www.ibm.com/think/topics/generative-model)
+[ IBM — O que é a IA generativa? ](https://www.ibm.com/think/topics/generative-model)
 
 ### 03. AWS — Model Types — Generative AI Atlas
 
@@ -142,7 +142,7 @@ Incluir uma perspectiva acadêmica e uma revisão abrangente sobre a evolução 
 Aprofundamento conceitual e contextualização acadêmica da IA Generativa.
 
 🔗 **Fonte**:
-[ MDPI — Generative AI and the Foundation Model Era: A Comprehensive Review ](#-https://www.mdpi.com/2504-2289/10/3/94)
+[ MDPI ](https://www.mdpi.com/2504-2289/10/3/94)
 
 ### 05. Governo Digital — Guia IA Generativa
 
@@ -380,6 +380,190 @@ A análise desse resultado revelou-se particularmente interessante, uma vez que 
 Em vez de fornecer uma resposta especulativa, o NotebookLM fez uma distinção clara entre o conceito solicitado e um termo semelhante que foi encontrado no material analisado.
 
 Essa abordagem destaca a importância de definir de forma clara e precisa o escopo das consultas, especialmente quando se pretende trabalhar com uma base documental específica.
+
+---
+
+## 📖 Miniguia de Estudo
+
+O Miniguia de Estudo consolida os principais conhecimentos desenvolvidos ao longo do projeto, reunindo conceitos fundamentais, aplicações, limitações, impactos e tendências relacionadas à Inteligência Artificial Generativa.
+
+### 🧠 Conceito e Funcionamento
+
+A Inteligência Artificial Generativa é um conceito que se concentra na criação de novos conteúdos a partir de padrões aprendidos por modelos de IA. Esta tecnologia se distingue entre modelos generativos, que geram novas instâncias, e modelos discriminativos, que classificam instâncias já existentes.
+
+A IA Generativa pode produzir diversos tipos de conteúdo, como texto, imagens, áudio e código, e tem aplicações em várias áreas, incluindo desenvolvimento de software, design e mídia.
+
+### ⚠️ Limitações, Riscos e Uso Responsável
+
+Entretanto, a utilização de sistemas generativos não é isenta de desafios.
+
+Um dos problemas identificados são as "alucinações", que se referem à produção de informações incorretas que podem parecer plausíveis. Isso torna essencial a verificação das respostas geradas por IA, especialmente em contextos críticos.
+
+Além disso, a IA pode reproduzir ou amplificar vieses presentes nos dados de treinamento, levantar questões de privacidade ao lidar com informações sensíveis e ser utilizada para criar conteúdos maliciosos, como deepfakes.
+
+A dependência excessiva da IA pode levar à delegação de tarefas que requerem raciocínio e análise crítica, enquanto o impacto ambiental deve ser considerado devido à infraestrutura computacional necessária para modelos de grande escala.
+
+### 💼 IA Generativa e Mercado de Trabalho
+
+A IA Generativa não deve ser vista apenas como uma ameaça aos empregos, mas como uma ferramenta que pode transformar a natureza das tarefas profissionais, exigindo novas competências e supervisão em sistemas automatizados.
+
+### 🎓 IA Generativa e Educação
+
+A IA também pode ser uma ferramenta de apoio ao processo de aprendizagem, desde que utilizada de forma orientada.
+
+O uso inadequado pode comprometer o aprendizado, pois os estudantes podem se limitar a solicitar respostas em vez de engajar no processo cognitivo.
+
+### 🤖 IA Agêntica e Evolução da Tecnologia
+
+A distinção entre IA Generativa e sistemas agênticos é importante, sendo que os últimos têm uma camada de autonomia que lhes permite planejar e executar tarefas de forma mais complexa.
+
+Por fim, a multimodalidade e a integração com ferramentas externas são tendências que têm se destacado na evolução da IA.
+
+### 👤 O Papel do Usuário
+
+A alfabetização em Inteligência Artificial está se tornando cada vez mais importante, pois a qualidade dos resultados não depende apenas da capacidade do modelo, mas também do papel ativo do usuário.
+
+O Guia de IA Generativa do Governo Digital enfatiza a necessidade de revisão humana e o uso responsável das ferramentas, considerando a proteção de dados e a atenção a vieses e segurança.
+
+---
+
+## 📚 Glossário
+
+A tabela abaixo reúne os principais conceitos utilizados e estudados ao longo do projeto.
+
+| Termo | Definição |
+|---|---|
+| **IA Generativa** | Sistemas de IA capazes de gerar novos conteúdos a partir de padrões aprendidos. |
+| **Modelo Generativo** | Modelo que aprende características ou distribuições dos dados e pode gerar novas amostras. |
+| **IA Preditiva** | Sistemas voltados à previsão ou estimativa de resultados com base em dados. |
+| **Modelo Discriminativo** | Modelo utilizado para distinguir ou classificar diferentes categorias de dados. |
+| **Deep Learning** | Área do aprendizado de máquina baseada principalmente em redes neurais profundas. |
+| **Transformer** | Arquitetura baseada em mecanismos de atenção, amplamente utilizada em modelos de linguagem. |
+| **GAN** | Rede Generativa Adversarial composta por um gerador e um discriminador. |
+| **Difusão** | Classe de modelos generativos que aprende a reverter processos de adição de ruído para gerar dados. |
+| **LLM** | Large Language Model, ou Modelo de Linguagem de Grande Escala. |
+| **Modelo de Fundação** | Modelo de grande escala treinado para servir como base para diferentes aplicações. |
+| **Fine-tuning** | Processo de adaptação de um modelo previamente treinado para determinado objetivo. |
+| **RLHF** | Reinforcement Learning from Human Feedback, técnica que utiliza feedback humano no alinhamento de modelos. |
+| **Prompt** | Instrução ou entrada fornecida pelo usuário ao sistema de IA. |
+| **Multimodalidade** | Capacidade de trabalhar com diferentes tipos de informação, como texto, imagem, áudio e vídeo. |
+| **Alucinação** | Geração de informação incorreta, fabricada ou não sustentada pelas evidências disponíveis, apresentada de maneira plausível. |
+| **Viés** | Tendência sistemática que pode influenciar os resultados produzidos por um modelo. |
+| **IA Agêntica** | Sistemas que utilizam agentes capazes de executar etapas orientadas a objetivos, frequentemente com ferramentas externas. |
+| **RAG** | Retrieval-Augmented Generation, abordagem que utiliza informações recuperadas de fontes externas para fundamentar a geração. |
+| **Test-time compute** | Utilização de recursos computacionais adicionais durante a inferência para determinadas tarefas. |
+| **MCP** | Model Context Protocol, protocolo criado para facilitar a conexão de sistemas de IA com ferramentas e fontes de contexto. |
+| **Deepfake** | Conteúdo sintético ou manipulado que pode representar pessoas ou situações de forma enganosa. |
+| **Dados Sintéticos** | Dados gerados artificialmente para representar características de dados reais. |
+| **AI Literacy** | Conhecimento necessário para compreender, utilizar e avaliar sistemas de Inteligência Artificial de maneira crítica. |
+
+---
+
+## ♻️ Biblioteca de Prompts Reutilizáveis
+
+Os prompts abaixo foram criados a partir dos aprendizados obtidos durante o projeto e podem ser reutilizados em futuras sessões de estudo.
+
+### 🔹 Prompt 1 — Exploração de um Conceito
+
+```text
+Explique o conceito de ... utilizando apenas as fontes disponíveis neste
+notebook.
+
+Organize a resposta em:
+- Definição;
+- Funcionamento;
+- Exemplos práticos;
+- Aplicações;
+- Limitações.
+
+Utilize uma linguagem adequada para uma pessoa que está iniciando os
+estudos.
+
+```
+
+### 🔹 Prompt 2 — Comparação entre Conceitos
+
+```text
+Compare ... e ... utilizando somente as fontes disponíveis neste notebook.
+
+Apresente:
+- Definição de cada conceito;
+- Principais diferenças;
+- Principais semelhanças;
+- Exemplos práticos;
+- Vantagens;
+- Limitações.
+
+
+```
+### 🔹 Prompt 3 — Tutor Interativo
+
+```text
+Atue como um tutor de Inteligência Artificial Generativa.
+
+1. Faça 10 perguntas de revisão sobre ( ASSUNTO );
+2. Apresente uma pergunta por vez;
+3. Aguarde minha resposta;
+4. Avalie minha resposta;
+5. Explique os erros;
+6. Apresente a resposta correta;
+7. Informe quais conceitos devo revisar.
+
+
+```
+### 🔹 Prompt 4 — Resumo Estruturado
+
+```text
+Produza um resumo de estudo sobre ( TEMA ).
+
+Estruture em:
+
+1. Conceito;
+2. Fundamentos;
+3. Funcionamento;
+4. Aplicações;
+5. Vantagens;
+6. Limitações;
+7. Riscos;
+8. Exemplos;
+9. Principais termos;
+10. Pontos que merecem revisão.
+
+Utilize linguagem clara e objetiva.
+
+```
+
+---
+
+## 💡 Principais Aprendizados
+
+O desenvolvimento do projeto evidenciou que a utilização de Inteligência Artificial (IA) para o estudo vai além de simplesmente fazer perguntas e copiar respostas.
+
+O processo envolveu várias etapas, como **curadoria, análise, verificação, refinamento e síntese das informações**.
+
+Um dos principais aprendizados foi a distinção entre **treinar um modelo de IA** e **fornecer fontes que sustentem as consultas**. As fontes integradas ao NotebookLM serviram como base documental para o estudo, em vez de serem utilizadas para o treinamento do modelo.
+
+Além disso, foi destacado que a qualidade das respostas geradas está intimamente ligada à qualidade das perguntas formuladas. Prompts que são mais específicos, definindo claramente o objetivo, escopo e critérios de resposta, tendem a resultar em respostas mais adequadas às necessidades do estudo.
+
+### 🎯 Síntese do Aprendizado
+
+Em suma, o aprendizado mais significativo do projeto foi a compreensão de que a Inteligência Artificial pode ser uma ferramenta poderosa para a aprendizagem, desde que utilizada de maneira orientada, crítica e responsável.
+
+---
+
+## 🏁 Considerações Finais
+
+Este projeto representa uma experiência prática de utilização da Inteligência Artificial como ferramenta de aprendizagem ativa.
+
+Mais do que estudar o conceito de IA Generativa, o projeto buscou compreender **como pesquisar com IA, como formular melhores perguntas, como avaliar respostas e como reconhecer as limitações de sistemas generativos**.
+
+A experiência reforçou que a utilização responsável da IA depende da combinação entre **tecnologia, qualidade das fontes, clareza das instruções e, principalmente, capacidade humana de análise crítica**.
+
+---
+
+> 📚 Projeto desenvolvido para fins educacionais como parte do Desafio de Projeto da DIO.
+
+
 
 
 
