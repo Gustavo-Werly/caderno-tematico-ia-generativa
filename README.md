@@ -79,6 +79,8 @@ Essa distinção é importante para entender a natureza do conteúdo criado e os
 
 ## 📚 Curadoria de Fontes
 
+>💡 **Nota sobre a base de pesquisa:** o NotebookLM utilizado no projeto reúne 30 fontes consultadas ao longo da exploração do tema.
+
 A curadoria das fontes foi uma das etapas fundamentais do projeto.
 
 O objetivo não foi simplesmente reunir uma grande quantidade de materiais, mas selecionar conteúdos capazes de oferecer perspectivas complementares sobre o tema.
