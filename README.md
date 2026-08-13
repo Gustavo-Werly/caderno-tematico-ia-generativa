@@ -352,7 +352,7 @@ Algumas comparações entre IA Generativa e "IA tradicional" foram apresentadas 
 Substituir generalizações por comparações baseadas na finalidade dos modelos e nas características das tarefas.
 
 ---
-
+<a id="experimento-de-validacao"></a>
 ## 🕰️ Experimento de Validação
 
 Um dos experimentos mais importantes do projeto foi realizado para observar como o NotebookLM lidaria com uma informação que não estava sustentada pelas fontes disponíveis.
