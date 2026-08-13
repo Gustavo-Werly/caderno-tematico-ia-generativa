@@ -16,21 +16,34 @@
 
 ---
 
+## 🚀 Explore o Projeto no NotebookLM
+
+> 🤖 **Experiência interativa:** este projeto também está disponível no NotebookLM, permitindo explorar as fontes selecionadas e interagir com o conteúdo desenvolvido durante o estudo.
+
+### 📚 Caderno Temático de Inteligência Artificial Generativa
+
+👉 **[🔗 Acessar o Caderno no NotebookLM](https://notebook.google.com/notebook/0fb685e7-6429-49b4-aa97-03d19c930c4b)**
+
+> 🌐 **Acesso público:** o notebook foi disponibilizado para visualização por meio de link.
+
+---
+
 ## 🧭 Navegação
 
-* [ 📌 Sobre este Projeto ](#-sobre-este-projeto)
-* [ 🎯 Objetivos ](#-objetivos)
-* [ 🧠 Inteligência Artificial Generativa? ](#-inteligência-artificial-generativa)
-* [ 📚 Curadoria de Fontes ](#-curadoria-de-fontes)
-* [ 🔎 Critérios de Seleção das Fontes ](#-critérios-de-seleção-das-fontes)
-* [ 🧪 Engenharia de Prompts ](#-engenharia-de-prompts)
-* [ 🩹 Cicatrizes e Troubleshooting ](#-cicatrizes-e-troubleshooting)
-* [ 🕰️ Experimento de Validação ](#-experimento-de-validação)
-* [ 📖 Miniguia de Estudo ](#-miniguia-de-estudo)
-* [ 📚 Glossário ](#-glossário)
-* [ ♻️ Biblioteca de Prompts Reutilizáveis ](#-biblioteca-de-prompts-reutilizáveis)
-* [ 💡 Principais Aprendizados ](#-principais-aprendizados)
-* [ 🏁 Considerações Finais ](#-considerações-finais)
+- [📌 Sobre este Projeto](#-sobre-este-projeto)
+- [ 🚀 Explore o Projeto no NotebookLM ](#-explore-o-projeto-no-notebooklm)
+- [🎯 Objetivos](#-objetivos)
+- [🧠 Inteligência Artificial Generativa](#-inteligência-artificial-generativa)
+- [📚 Curadoria de Fontes](#-curadoria-de-fontes)
+- [🔎 Critérios de Seleção das Fontes](#-critérios-de-seleção-das-fontes)
+- [🧪 Engenharia de Prompts](#-engenharia-de-prompts)
+- [🩹 Cicatrizes e Troubleshooting](#-cicatrizes-e-troubleshooting)
+- [🕰️ Experimento de Validação](#-experimento-de-validação)
+- [📖 Miniguia de Estudo](#-miniguia-de-estudo)
+- [📚 Glossário](#-glossário)
+- [♻️ Biblioteca de Prompts Reutilizáveis](#-biblioteca-de-prompts-reutilizáveis)
+- [💡 Principais Aprendizados](#-principais-aprendizados)
+- [🏁 Considerações Finais](#-considerações-finais)
 
 ## 📌 Contexto do Projeto
 
@@ -43,7 +56,7 @@ A proposta surgiu a partir da necessidade de utilizar a Inteligência Artificial
 
 Estudar os principais conceitos, fundamentos, aplicações, benefícios, limitações, riscos, tendências e impactos sociais relacionados à **Inteligência Artificial Generativa**, utilizando o NotebookLM como ferramenta de apoio à aprendizagem ativa e à organização do conhecimento.
 
-### 🎯 Objetivo Específicos
+### 🎯 Objetivos Específicos
 
 - Compreender os principais conceitos e termos relacionados à Inteligência Artificial Generativa;
 - Entender, em nível introdutório, como funcionam os modelos generativos;
